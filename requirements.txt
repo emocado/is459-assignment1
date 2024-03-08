@@ -1,0 +1,4 @@
+selenium==4.15.2
+python-dotenv==0.20.0
+pymongo==4.3.3
+apache-airflow==2.5.1
